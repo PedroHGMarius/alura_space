@@ -1,0 +1,27 @@
+// venv
+Criar venv: python -m venv venv
+
+Ativar venv: ./venv/Scripts/activate
+
+Instalar: pip install requests
+
+pip freeze > requirements.txt
+
+deactivate
+
+// django
+pip install django
+
+django-admin startproject setup .  
+
+ctrl + shift + p => python select interpreter
+
+python manage.py runserver
+
+pip install python-dotenv
+
+
+
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/
+
+https://docs.djangoproject.com/en/5.1/
