@@ -20,7 +20,7 @@ python manage.py runserver
 
 pip install python-dotenv
 
-
+python manage.py startapp 'nome app'
 
 https://docs.djangoproject.com/en/5.1/intro/tutorial01/
 
